@@ -38,6 +38,8 @@ solution! It's ok if your initial solution isn't optimal from a runtime
 perspective; it's totally fine to brute force your way to a solution and get
 something working before trying to optimize.
 
+//make a function 'hasTargetSum' which checks if any pair of numbers in the given array add up to some target,for example given a target sum of 20 ,an array of`[6,9,11,3]should return true because 11 and 9 add up to 20
+
 ## Problem Solving Approach
 
 Use the
